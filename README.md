@@ -1,6 +1,8 @@
 # Challenge-IA
 ## Objetivo
 
+![ LOGO ](img/UrBuyLogo.jpeg)
+
 No mundo cada vez mais complexo do mercado tecnológico, encontrar produtos adequados às 
 necessidades específicas tornou-se um desafio significativo. Nesse contexto, apresentamos 
 nossa proposta tecnológica revolucionária: um sistema de busca personalizado alimentado por 
@@ -41,6 +43,8 @@ fim, avalia as cinco melhores opções de compra de acordo com os produtos lista
 de dados Oracle da plataforma.
 
 ### • Interação dos componentes
+
+![ INTERAÇAOCOMPONENTES ](img/InteraçãoComponentesUrBuy.png)
 
 ## Modelagem de dados
 
