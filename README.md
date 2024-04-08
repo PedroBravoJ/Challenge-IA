@@ -33,7 +33,9 @@ e Quality Assurance )]
 
 • Augusto de Carvalho Vertolis Santana - RM96518 Turma 2TDSPT (responsável pela 
 entrega de Hybrid Mobile App Development e Digital Business Enablement)
-Arquitetura Geral
+
+
+## Arquitetura Geral
 
 ### • Principais componentes
 
