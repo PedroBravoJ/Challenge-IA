@@ -77,7 +77,7 @@ O modelo de aprendizado de máquina utilizado foi o KNeighborsClassifier, treina
 encontrar as 5 melhores opções de produtos com base nos critérios de “ratings”, “actual_price”
 e “Delivery Time” (Hiperparâmetros: n_neighbors=5). Os valores das 3 colunas foram 
 normalizados utilizando MinMaxScaler e foi criada uma coluna de pontuação fazendo a média 
-dos parâmetros com os seguintes pesos: ratings = 0.4, actual_price: 0.3 e Delivery Time: 0.3.
+dos parâmetros com os seguintes pesos: ratings = 0.4, actual_price = 0.3 e Delivery Time = 0.3.
 
 ## Implantação
 
