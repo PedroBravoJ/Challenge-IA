@@ -93,7 +93,6 @@ Para implantação do modelo foram utilizadas as seguintes tecnologias:
 
 Atualmente o projeto está implantado localmente, porém futuramente integraremos suas 
 funcionalidades ao ambiente de nuvem Azure.
-Interpretação dos Resultados
 
 ### • Explicando o modelo
 
