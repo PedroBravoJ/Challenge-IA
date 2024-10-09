@@ -115,4 +115,4 @@ valores desatualizados e, alguns, fictícios, com o intuito de avaliar o desempe
 porém, em breve, ele será aplicado ao próprio sistema UrBuy, usufruindo de informações e 
 produtos presentes em nosso próprio banco de dados.
 
-UrBuy ©, 202
+UrBuy ©, 2022
